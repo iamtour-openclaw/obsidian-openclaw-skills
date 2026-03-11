@@ -43,6 +43,6 @@
 
 ---
 *本技能由 OpenClaw Skills 收集器自动生成*
-*生成时间：2026-03-11 07:47*
+*生成时间：2026-03-11 20:57*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-openclaw-skills*
