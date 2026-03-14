@@ -2,8 +2,8 @@
 
 ## 📈 今日统计
 - **技能总数**: 10 个
-- **信息来源**: ClawHub, OpenClaw Skills, OpenClaw Docs
-- **收集时间**: 10:39
+- **信息来源**: ClawHub, OpenClaw Docs, OpenClaw Skills
+- **收集时间**: 19:30
 - **维护状态**: ✅ 正常
 
 ## 📁 分类统计
@@ -163,6 +163,6 @@
 
 ---
 *本索引由 OpenClaw Skills 收集器自动生成*
-*生成时间：2026-03-14 10:39*
+*生成时间：2026-03-14 19:30*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-openclaw-skills*
