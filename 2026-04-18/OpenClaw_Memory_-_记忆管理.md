@@ -4,7 +4,7 @@
 - **来源**: OpenClaw Docs
 - **类型**: 官方技能
 - **分类**: 核心功能
-- **标签**: memory recall continuity
+- **标签**: memory, recall, continuity
 - **学习难度**: 中等
 
 ## 📝 技能描述
@@ -36,13 +36,13 @@ memory_search query=xxx | memory_get path=xxx
 推荐所有 OpenClaw 用户学习和使用
 
 ## 🔗 相关链接
-- [🔍 Google 搜索此技能](https://www.google.com/search?q=OpenClaw+OpenClaw+Memory+-+记忆管理)
+- [🔍 Google 搜索此技能](https://www.google.com/search?q=OpenClaw+OpenClaw_Memory_-_%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86)
 - [🏠 OpenClaw Docs 官方](https://docs.openclaw.ai)
 - [📖 OpenClaw 文档](https://docs.openclaw.ai)
 - [🦞 ClawHub 社区](https://clawhub.com)
 
 ---
 *本技能由 OpenClaw Skills 收集器自动生成*
-*生成时间：2026-04-18 13:07*
+*生成时间：2026-04-18 19:31*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-openclaw-skills*

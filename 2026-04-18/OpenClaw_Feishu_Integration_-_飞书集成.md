@@ -4,7 +4,7 @@
 - **来源**: OpenClaw Docs
 - **类型**: 官方技能
 - **分类**: 通讯类
-- **标签**: feishu message notification
+- **标签**: feishu, message, notification
 - **学习难度**: 中等
 
 ## 📝 技能描述
@@ -36,13 +36,13 @@ feishu_doc action=read/write | feishu_wiki action=spaces/nodes | feishu_bitable
 推荐所有 OpenClaw 用户学习和使用
 
 ## 🔗 相关链接
-- [🔍 Google 搜索此技能](https://www.google.com/search?q=OpenClaw+OpenClaw+Feishu+Integration+-+飞书集成)
+- [🔍 Google 搜索此技能](https://www.google.com/search?q=OpenClaw+OpenClaw_Feishu_Integration_-_%E9%A3%9E%E4%B9%A6%E9%9B%86%E6%88%90)
 - [🏠 OpenClaw Docs 官方](https://docs.openclaw.ai)
 - [📖 OpenClaw 文档](https://docs.openclaw.ai)
 - [🦞 ClawHub 社区](https://clawhub.com)
 
 ---
 *本技能由 OpenClaw Skills 收集器自动生成*
-*生成时间：2026-04-18 13:07*
+*生成时间：2026-04-18 19:31*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-openclaw-skills*

@@ -4,7 +4,7 @@
 - **来源**: OpenClaw Docs
 - **类型**: 官方技能
 - **分类**: 工具类
-- **标签**: browser web automation
+- **标签**: browser, web, automation
 - **学习难度**: 中等
 
 ## 📝 技能描述
@@ -37,13 +37,13 @@ browser action=snapshot / browser action=click / browser action=type
 推荐所有 OpenClaw 用户学习和使用
 
 ## 🔗 相关链接
-- [🔍 Google 搜索此技能](https://www.google.com/search?q=OpenClaw+OpenClaw+Browser+Control+-+浏览器控制技能)
+- [🔍 Google 搜索此技能](https://www.google.com/search?q=OpenClaw+OpenClaw_Browser_Control_-_%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8E%A7%E5%88%B6%E6%8A%80%E8%83%BD)
 - [🏠 OpenClaw Docs 官方](https://docs.openclaw.ai)
 - [📖 OpenClaw 文档](https://docs.openclaw.ai)
 - [🦞 ClawHub 社区](https://clawhub.com)
 
 ---
 *本技能由 OpenClaw Skills 收集器自动生成*
-*生成时间：2026-04-18 13:07*
+*生成时间：2026-04-18 19:31*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-openclaw-skills*

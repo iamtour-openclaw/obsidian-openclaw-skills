@@ -4,7 +4,7 @@
 - **来源**: ClawHub
 - **类型**: 社区资源
 - **分类**: 资源
-- **标签**: clawhub community skills
+- **标签**: clawhub, community, skills
 - **学习难度**: 中等
 
 ## 📝 技能描述
@@ -37,13 +37,13 @@
 推荐所有 OpenClaw 用户学习和使用
 
 ## 🔗 相关链接
-- [🔍 Google 搜索此技能](https://www.google.com/search?q=OpenClaw+ClawHub+社区技能市场)
+- [🔍 Google 搜索此技能](https://www.google.com/search?q=OpenClaw+ClawHub_%E7%A4%BE%E5%8C%BA%E6%8A%80%E8%83%BD%E5%B8%82%E5%9C%BA)
 - [🏠 ClawHub 官方](https://clawhub.com)
 - [📖 OpenClaw 文档](https://docs.openclaw.ai)
 - [🦞 ClawHub 社区](https://clawhub.com)
 
 ---
 *本技能由 OpenClaw Skills 收集器自动生成*
-*生成时间：2026-04-18 13:07*
+*生成时间：2026-04-18 19:31*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-openclaw-skills*

@@ -3,7 +3,7 @@
 ## 📈 今日统计
 - **技能总数**: 10 个
 - **信息来源**: OpenClaw Docs, OpenClaw Skills, ClawHub
-- **收集时间**: 13:07
+- **收集时间**: 19:31
 - **维护状态**: ✅ 正常
 
 ## 📁 分类统计
@@ -25,7 +25,7 @@
 
 控制浏览器进行网页操作，支持 Chrome 扩展接管和独立浏览器 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: browser web automation
+**标签**: browser, web, automation
 
 [[OpenClaw_Browser_Control_-_浏览器控制技能.md]] | [📖 GitHub 在线阅读](./OpenClaw_Browser_Control_-_浏览器控制技能.md)
 
@@ -36,7 +36,7 @@
 
 飞书消息发送、文档操作、知识库管理 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: feishu message notification
+**标签**: feishu, message, notification
 
 [[OpenClaw_Feishu_Integration_-_飞书集成.md]] | [📖 GitHub 在线阅读](./OpenClaw_Feishu_Integration_-_飞书集成.md)
 
@@ -47,7 +47,7 @@
 
 配置和管理定时任务，支持 cron 表达式 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: cron schedule automation
+**标签**: cron, schedule, automation
 
 [[OpenClaw_Cron_-_定时任务管理.md]] | [📖 GitHub 在线阅读](./OpenClaw_Cron_-_定时任务管理.md)
 
@@ -58,7 +58,7 @@
 
 创建和管理子代理，实现并行任务处理 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: subagent orchestration parallel
+**标签**: subagent, orchestration, parallel
 
 [[OpenClaw_Subagents_-_子代理编排.md]] | [📖 GitHub 在线阅读](./OpenClaw_Subagents_-_子代理编排.md)
 
@@ -69,7 +69,7 @@
 
 长期记忆和短期记忆的存储与检索 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: memory recall continuity
+**标签**: memory, recall, continuity
 
 [[OpenClaw_Memory_-_记忆管理.md]] | [📖 GitHub 在线阅读](./OpenClaw_Memory_-_记忆管理.md)
 
@@ -80,7 +80,7 @@
 
 系统安全检查和风险配置 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: health security audit
+**标签**: health, security, audit
 
 [[OpenClaw_Healthcheck_-_健康检查技能.md]] | [📖 GitHub 在线阅读](./OpenClaw_Healthcheck_-_健康检查技能.md)
 
@@ -91,7 +91,7 @@
 
 查询天气和预报，使用 wttr.in 或 Open-Meteo 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: weather forecast wttr
+**标签**: weather, forecast, wttr
 
 [[OpenClaw_Weather_-_天气查询技能.md]] | [📖 GitHub 在线阅读](./OpenClaw_Weather_-_天气查询技能.md)
 
@@ -102,7 +102,7 @@
 
 社区贡献的技能市场，发现和分享技能 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: clawhub community skills
+**标签**: clawhub, community, skills
 
 [[ClawHub_社区技能市场.md]] | [📖 GitHub 在线阅读](./ClawHub_社区技能市场.md)
 
@@ -113,7 +113,7 @@
 
 在画布上展示 UI 和内容 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: canvas ui presentation
+**标签**: canvas, ui, presentation
 
 [[OpenClaw_Canvas_-_画布展示技能.md]] | [📖 GitHub 在线阅读](./OpenClaw_Canvas_-_画布展示技能.md)
 
@@ -124,7 +124,7 @@
 
 文本转语音，支持多种语音和格式 这是 OpenClaw 生态系统中的重要技能。
 
-**标签**: tts voice audio
+**标签**: tts, voice, audio
 
 [[OpenClaw_TTS_-_语音合成技能.md]] | [📖 GitHub 在线阅读](./OpenClaw_TTS_-_语音合成技能.md)
 
@@ -163,6 +163,6 @@
 
 ---
 *本索引由 OpenClaw Skills 收集器自动生成*
-*生成时间：2026-04-18 13:07*
+*生成时间：2026-04-18 19:31*
 *维护者：小李子 (OpenClaw AI 助手)*
 *项目地址：https://github.com/iamtour-openclaw/obsidian-openclaw-skills*
